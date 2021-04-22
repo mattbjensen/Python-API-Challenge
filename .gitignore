@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# API Keys
+api_keys.py
+
+# Apple/Mac specific
+.DS_store
